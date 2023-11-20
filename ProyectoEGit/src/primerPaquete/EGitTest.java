@@ -57,6 +57,7 @@ public class EGitTest {
     // Cuarto comentario parar main - merge
     // Cuarto comentario para rama1 - merge
     // Quinto comentario para rebase - eliminar
+    // Sexto comentario. bla bla bla
 
   }
 
